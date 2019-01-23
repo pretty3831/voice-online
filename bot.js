@@ -14,7 +14,7 @@ client.on("voiceChannelLeave", (msg) => {
 
 client.on("messageCreate", (msg) => {
     if(msg.author.id !== "433198762706599936") return client.createMessage('__**This Command is only for the bot Owner**__');
-    if(msg.content === "^voice") {
+    if(msg.content === "rvoice") {
         let users = msg.channel.guild.members.map(m => m.user.id);
         let messages = [];
         messages.push(users);
