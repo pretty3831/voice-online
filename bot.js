@@ -1,5 +1,5 @@
 const Eris = require("eris");
-var client = new Eris("NTI0Nzg4NTkwNjY5MjAxNDE4.DyoIVg.Xj4G2kzu6PZ1wQyVg031wMpO1lU");
+var client = new Eris("NTI0Nzg4NTkwNjY5MjAxNDE4.DyocNA.k2EqbS2s5aXWtzqmoxDYWix_WpE");
 var client_id = "536212517748211723";
                     var i = "0";
                     var x = "0";
