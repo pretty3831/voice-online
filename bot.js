@@ -39,4 +39,4 @@ client.on("messageCreate", (msg) => {
 
   
 
-client.connect("NTI0Nzg4NTkwNjY5MjAxNDE4.DyocNA.k2EqbS2s5aXWtzqmoxDYWix_WpE")
+client.connect("")
