@@ -39,4 +39,4 @@ client.on("messageCreate", (msg) => {
 
   
 
-client.connect("")
+client.login(process.env.BOT_TOKEN);
